@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Interactive Portfolio",
+    "description": "Modern portfolio built with React and Tailwind CSS.",
+    "technologies": [
+      "React",
+      "Tailwind CSS",
+      "JavaScript"
+    ],
+    "category": "Frontend",
+    "image": "/images/project-portfolio.svg",
+    "github": "https://github.com/yourusername/portfolio",
+    "demo": "https://portfolio-demo.com"
+  },
+  {
+    "id": 2,
+    "name": "Task Manager",
+    "description": "Task management application with CRUD operations.",
+    "technologies": [
+      "React",
+      "Node.js",
+      "MongoDB"
+    ],
+    "category": "Full Stack",
+    "image": "/images/project-taskmanager.svg",
+    "github": "https://github.com/yourusername/task-manager",
+    "demo": "https://task-demo.com"
+  },
+  {
+    "id": 3,
+    "name": "Weather Dashboard",
+    "description": "Weather application integrated with external APIs.",
+    "technologies": [
+      "React",
+      "API",
+      "Tailwind CSS"
+    ],
+    "category": "Frontend",
+    "image": "/images/project-weather.svg",
+    "github": "https://github.com/yourusername/weather",
+    "demo": "https://weather-demo.com"
+  },
+  {
+    "id": 4,
+    "name": "E-Commerce UI",
+    "description": "Responsive shopping website with animations.",
+    "technologies": [
+      "React",
+      "Tailwind CSS"
+    ],
+    "category": "Frontend",
+    "image": "/images/project-ecommerce.svg",
+    "github": "https://github.com/yourusername/ecommerce",
+    "demo": "https://shop-demo.com"
+  }
+]

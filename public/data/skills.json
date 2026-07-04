@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "HTML5",
+    "level": 95
+  },
+  {
+    "id": 2,
+    "name": "CSS3",
+    "level": 92
+  },
+  {
+    "id": 3,
+    "name": "JavaScript",
+    "level": 90
+  },
+  {
+    "id": 4,
+    "name": "React",
+    "level": 90
+  },
+  {
+    "id": 5,
+    "name": "Tailwind CSS",
+    "level": 94
+  },
+  {
+    "id": 6,
+    "name": "Node.js",
+    "level": 75
+  },
+  {
+    "id": 7,
+    "name": "Git",
+    "level": 85
+  },
+  {
+    "id": 8,
+    "name": "MongoDB",
+    "level": 70
+  }
+]
